@@ -149,16 +149,3 @@ p{
         transform: translate(100%);
     }
 }
-
-.fa-instagram {  
-    background: transparent;  
-    color: black;  
-    width: 100px;
-} 
-
-#pro{  
-    background: transparent;  
-    color: black;  
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-} 
