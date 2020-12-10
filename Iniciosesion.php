@@ -21,9 +21,8 @@
             <input type="submit" class="fadeIn fourth" value="Iniciar Sesion">
           </form>
           <div id="formFooter">
-            <a class="underlineHover" href="Registro.html">Registrate</a>
+            <a class="underlineHover" href="RegistroD.php">Registrate</a>
           </div>
-      
         </div>
       </div>
 </body>
