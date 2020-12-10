@@ -74,7 +74,7 @@
             <div class="card">
                 <img src="img/I1.jpg" class="card-img-top" alt="..." width="100%">
                 <br>
-                <a href="#" class="btn">PRUEBA NUESTRA EDICIÓN LIMITADA</a>
+                <a href="navidad.html" class="btn">PRUEBA NUESTRA EDICIÓN LIMITADA</a>
                 
             </div>
         </div>
@@ -83,7 +83,7 @@
             <div class="card">
                 <img src="img/logo.png" class="card-img-top" alt="..." width="100%">
                 <br>
-                <a href="#" class="btn">CONOCE MÁS SOBRE NOSOTROS!</a>
+                <a href="us 2.0.html" class="btn">CONOCE MÁS SOBRE NOSOTROS!</a>
                 </div>
             </div>
         </div>
