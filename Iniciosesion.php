@@ -17,7 +17,7 @@
           </div>
           <form action="sesion.php" method="post">
             <input type="text" id="login" class="fadeIn second" name="emails" placeholder="Correo">
-            <input type="text" id="password" class="fadeIn third" name="Passwords" placeholder="Contraseña">
+            <input type="password" id="password" class="fadeIn third" name="Passwords" placeholder="Contraseña">
             <input type="submit" class="fadeIn fourth" value="Iniciar Sesion">
           </form>
           <div id="formFooter">

@@ -53,14 +53,14 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
+                            <div class="form-group">
+                                    <input type="text" class="form-control"  placeholder="Usuario" value="" name="usuario" autocomplete="off" required/>
+                                </div>
                                 <div class="form-group">
                                     <input type="email" class="form-control" placeholder="Correo *" value="" name="Email" autocomplete="off" required/>
                                 </div>
                                 <div class="form-group">
                                     <input type="text" minlength="10" maxlength="10" name="Phone" class="form-control" placeholder="Telefono *" value="" autocomplete="off" required/>
-                                </div>
-                                <div class="form-group">
-                                    <input type="password" class="form-control"  placeholder="Confirmar Contraseña *" value="" name="Passwordc" autocomplete="off" required/>
                                 </div>
                                 <input type="submit" class="btnRegister"  value="Register"/>
                             </div>
