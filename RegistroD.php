@@ -7,7 +7,7 @@
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="styleR.css">
+    <link rel="stylesheet" href="CSS\styleR.css">
 </head>
 <body>
     <div class="container register">
@@ -15,8 +15,8 @@
             <div class="col-md-3 register-left">
                 <img src="img\logofake\conejitoo.png"  height="100px"/>
                 <h3>Bienvenido</h3>
-                <p>La Pasteleria donde encuentas el mas rico pan de todo Juares</p>
-                <a href="Iniciosesion.html">
+                <p>La Pasteleria donde encuentras los mas ricos pasteles de todo Juarez</p>
+                <a href="Iniciosesion.php">
                 <input type="submit" name="" value="Inicia Sesion"/></a><br/>
             </div>
             <div class="col-md-9 register-right">
@@ -37,8 +37,12 @@
                                 </div>
                                 <div class="form-group">
                                     <div class="maxl">
+                                    <label class="radio inline"> 
+                                            <input type="radio" name="gender" value="o" checked>
+                                            <span> Otro </span> 
+                                        </label>
                                         <label class="radio inline"> 
-                                            <input type="radio" name="gender" value="m" checked>
+                                            <input type="radio" name="gender" value="m">
                                             <span> Hombre </span> 
                                         </label>
                                         <label class="radio inline"> 

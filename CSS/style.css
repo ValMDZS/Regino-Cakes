@@ -31,7 +31,7 @@ h1{
 }
 .header{
     height: 90px;
-    background-image: url("img/banner2.png");
+    background-image: url("../img/banner2.png");
     padding: 2rem 0rem;
     position: fixed;
     left: 0;
@@ -98,8 +98,7 @@ p{
     padding-bottom: 1rem;
 }
 .slider{
-    padding-right: 2rem;
-    width: 75%;
+    width: 90%;
     margin: auto;
     overflow: hidden;
 }
