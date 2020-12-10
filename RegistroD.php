@@ -21,7 +21,7 @@
             </div>
             <div class="col-md-9 register-right">
                 <div class="tab-content" id="myTabContent">
-                    <form action="registro.php" method="post">
+                    <form action="php\registro.php" method="post">
                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">                    
                         <h3 class="register-heading">Pasteleria Regino</h3>
                         <div class="row register-form">

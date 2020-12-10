@@ -16,19 +16,28 @@
         @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
     </style>
     <body>
-        <header class="header">
-            <div class="container-logo-nav">
-                <a href="#" class="logo"><img src="img/logo1.png" alt="" ></a>
-                <nav class="navegador">
-                    <ul>
-                        <li><a href="index.php">Inicio</a></li>
-                        <li><a href="us 2.0.html">Acerca De Nosotros/Contactanos</a></li>
-                        <li><a href="navidad.html">Especial navideño</a></li>
-                        <li><a href="RegistroD.php">Registrate</a></li>
-                    </ul>
-                </nav>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: url(img/banner2.png);">
+            <a class="navbar-brand" href="#"><img src="img/logo1.png" alt="" ></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="Us.html">Acerca de nosotros</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="Cakes.html">Productos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="RegistroD.php">Registrate</a>
+                </li>
+            </ul>
             </div>
-        </header>
+        </nav>
         <main class="main">
             <h1 class="titleletra">Pastelería ReginoCakes</h1>
             <div class="slider">
@@ -61,13 +70,13 @@
                 </a>
             </div>
             </div>
-            <div class="container">
+            <div class="containers">
                 <h1>Pasteles De Chocolate</h1>
                 <div class="Renglon">
                     <div class="pastel">                       
                         <img src="img\Chocolate\cake1.jpg" id="cake1">
                         <p>German Chocolate</p>
-                        <button type="submit" value="CGerman" class="car">Añadir al carrito</button>
+                        <button type="submit" value="CGerman" class="car">Comprar</button>
                         <button type="submit" value="BGerman" class="buy">Añadir al carrito</button>
                     </div>
                     <div class="pastel">
@@ -295,7 +304,7 @@
             </div>
         </main>
         <footer class="footer">
-            <div class="container">
+            <div class="containers">
                 <p id="pro"> ReginoCakes™ Noviembre 2020 - Diciembre 2020 <a href="https://www.instagram.com/regino_cakes/" class="fa fa-instagram"></a>  </p>
             </div>
         </footer>
