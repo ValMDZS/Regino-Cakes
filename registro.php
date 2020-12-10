@@ -27,6 +27,6 @@ if ($contrasena === $ccontrasena){
       header("Location Registro.php");
 }
 
-    
+
 
 mysqli_close($conn);
