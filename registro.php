@@ -26,7 +26,7 @@ if ($contrasena == $ccontrasena){
 
 }
 
-    
+
 
 mysqli_close($conn);
 
