@@ -23,10 +23,10 @@
                 <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="Us.html">Acerca de nosotros</a>
+                <a class="nav-link" href="Us.php">Acerca de nosotros</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="Cakes.html">Productos</a>
+                <a class="nav-link" href="Cakes.php">Productos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="RegistroD.php">Registrate</a>
@@ -74,7 +74,7 @@
             <div class="card">
                 <img src="img/I1.jpg" class="card-img-top" alt="..." width="100%">
                 <br>
-                <a href="navidad.html" class="btn">PRUEBA NUESTRA EDICIÓN LIMITADA</a>
+                <a href="navidad.php" class="btn">PRUEBA NUESTRA EDICIÓN LIMITADA</a>
                 
             </div>
         </div>
@@ -83,7 +83,7 @@
             <div class="card">
                 <img src="img/logo.png" class="card-img-top" alt="..." width="100%">
                 <br>
-                <a href="Us.html" class="btn">CONOCE MÁS SOBRE NOSOTROS!</a>
+                <a href="Us.php" class="btn">CONOCE MÁS SOBRE NOSOTROS!</a>
                 </div>
             </div>
         </div>

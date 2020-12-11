@@ -21,9 +21,9 @@
                 <nav class="navegador">
                     <ul>
                         <li><a href="index.php">Inicio</a></li>
-                        <li><a href="Us.html">Acerca De Nosotros/Contactanos</a></li>
-                        <li><a href="Cakes.html">Productos</a></li>
-                        <li><a href="Registro.html">Registrate</a></li>
+                        <li><a href="Us.php">Acerca De Nosotros/Contactanos</a></li>
+                        <li><a href="Cakes.php">Productos</a></li>
+                        <li><a href="Registro.php">Registrate</a></li>
                     </ul>
                 </nav>
             </div>
@@ -37,25 +37,25 @@
                     <div class="pastel">                       
                         <img src="img/navicakes/navicake1.png" id="cake1">
                         <p>Chocolate navideño</p>
-                        <button type="submit" value="Choconavi" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Choconavi" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake2.png" id="cake2">
                         <p>Chocolatinas navideñas </p>
-                        <button type="submit" value="Clatinavi" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Clatinavi" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake3.png" id="cake3">
                         <p>Galletas choconavideñas</p>
-                        <button type="submit" value="Cgallenavi" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cgallenavi" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake4.png" id="cake4">
                         <p>Faliz cakenavidad </p>
-                        <button type="submit" value="Cakevidad" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cakevidad" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                 </div>
@@ -64,25 +64,25 @@
                     <div class="pastel">
                         <img src="img/navicakes/navicake5.png" id="cake5">
                         <p>Gallenavideñas 1 </p>
-                        <button type="submit" value="Cvideño1" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cvideño1" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake6.png" id="cake6">
                         <p>Gallenavideñas 2</p>
-                        <button type="submit" value="Cvideño2" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cvideño2" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake7.png" id="cake7">
                         <p>Roll navideño</p>
-                        <button type="submit" value="Crol" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Crol" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake8.png" id="cake8">
                         <p>Frozecake </p>
-                        <button type="submit" value="Cfrozen" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cfrozen" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                 </div>
@@ -91,25 +91,25 @@
                     <div class="pastel">
                         <img src="img/navicakes/navicake9.png" id="cake9">
                         <p>Navideñocake</p>
-                        <button type="submit" value="Ccaken" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Ccaken" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake10.png" id="cake10">
                         <p>Casita jengibre 1</p>
-                        <button type="submit" value="Cjengi" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cjengi" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake11.png" id="cake11">
                         <p>Casita jengibre 2</p>
-                        <button type="submit" value="Cjengi2" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cjengi2" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                     <div class="pastel">
                         <img src="img/navicakes/navicake12.png" id="cake12">
                         <p>Macaroons navideños</p>
-                        <button type="submit" value="Cmacana" class="car">Añadir al carrito</button>
+                        <button type="submit" value="Cmacana" class="car">Comprar</button>
                         <input type="button" value="Comprar" class="buy">
                     </div>
                 </div>                

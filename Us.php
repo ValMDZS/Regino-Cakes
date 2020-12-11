@@ -12,7 +12,7 @@
         <title>Acerca de nosotros</title>
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: url(img/banner2.png);">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: url(img/banner2.png);">
             <a class="navbar-brand" href="#"><img src="img/logo1.png" alt="" ></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -20,19 +20,19 @@
             <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                <a class="nav-link" href="">Inicio <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#">Especial navideño</a>
+                <a class="nav-link" href="Us.php">Acerca de nosotros</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="Cakes.html">Productos</a>
-                <li class="nav-item">
-                    <a class="nav-link" href="">Registrate</a>
+                <a class="nav-link" href="Cakes.php">Productos</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="RegistroD.php">Registrate</a>
                 </li>
             </ul>
-            </div>   
+            </div>
         </nav>
 
         <div class="container">
