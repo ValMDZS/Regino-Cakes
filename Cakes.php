@@ -72,233 +72,221 @@
             </div>
             <div class="containers">
                 <h1>Pasteles De Chocolate</h1>
+                <form action="pasteles.php" method="post">
                 <div class="Renglon">
                     <div class="pastel">                       
                         <img src="img\Chocolate\cake1.jpg" id="cake1">
                         <p>German Chocolate<br></p>
                         <button type="submit" value="CGerman" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Chocolate\cake2.jpg" id="cake2">
-                        <p>Swiss Chocolate Cake</p>
+                        <p>Swiss Chocolate Cake<br></p>
                         <button type="submit" value="CSwiss" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Chocolate\cake3.jpg" id="cake3">
-                        <p>Chocolate Kinder Surpriser Cake</p>
+                        <p>Chocolate Kinder Surpriser Cake<br></p>
                         <button type="submit" value="CKS" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Chocolate\cake4.jpg" id="cake4">
-                        <p>Chocolate Explosion</p>
+                        <p>Chocolate Explosion<br></p>
                         <button type="submit" value="CSwiss" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                 </div>
                 <h1>Pasteles De Chocolate Con Frutos</h1>
                 <div class="Renglon">
                     <div class="pastel">
                         <img src="img\FrutosChocolatosos\cake1.png" id="cake5">
-                        <p>Pastel de cajeta con frutos aperlados</p>
+                        <p>Pastel de cajeta con frutos aperlados<br></p>
                         <button type="submit" value="Ccajeta" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\FrutosChocolatosos\cake2.png" id="cake6">
-                        <p>Mousse de chocolate con frutos del bosque</p>
+                        <p>Mousse de chocolate con frutos <br>del bosque</p>
                         <button type="submit" value="Cmousse" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\FrutosChocolatosos\cake3.png" id="cake7">
-                        <p>Chocofresa blueberry</p>
+                        <p>Chocofresa blueberry<br></p>
                         <button type="submit" value="Cblueberry" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\FrutosChocolatosos\cake4.png" id="cake8">
-                        <p>Chocolate blueberry con glaseado de cajeta</p>
+                        <p>Chocolate blueberry con glaseado de cajeta<br></p>
                         <button type="submit" value="Cblueberrycaje" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                 </div>
                 <h1>Pasteles De Frutos Rojos</h1>
                 <div class="Renglon">
                     <div class="pastel">
                         <img src="img\Frutos rojos\cake1.png" id="cake9">
-                        <p>Pastel de cascada de frambuesa</p>
+                        <p>Pastel de cascada de frambuesa<br></p>
                         <button type="submit" value="Ccascada" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Frutos rojos\cake2.png" id="cake10">
-                        <p>Pastel mosaico de frambuesa</p>
+                        <p>Pastel mosaico de frambuesa<br></p>
                         <button type="submit" value="Cframbuesa" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Frutos rojos\cake3.png" id="cake11">
                         <p>Pastel con cubierta de chocolate <br>con frutos</p>
                         <button type="submit" value="Cfrutos" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Frutos rojos\cake4.png" id="cake12">
-                        <p>Cake de hot cake </p>
+                        <p>Cake de hot cake <br></p>
                         <button type="submit" value="Chotcakes" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                 </div>
                 <h1>Pasteles De Rainbow</h1>
                 <div class="Renglon">
                     <div class="pastel">
                         <img src="img\Arcoiris\cake1.jpg" id="cake29">
-                        <p>Pastel cascada de arcoiris</p>
+                        <p>Pastel cascada de arcoiris<br></p>
                         <button type="submit" value="Ccascadaa" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Arcoiris\cake2.jpg" id="cake30">
-                        <p>Rainbow dash</p>
+                        <p>Rainbow dash<br></p>
                         <button type="submit" value="Creinbow" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Arcoiris\cake3.jpg" id="cake31">
-                        <p>Closet cake</p>
+                        <p>Closet cake<br></p>
                         <button type="submit" value="Ccloset" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Arcoiris\cake4.jpg" id="cake32">
-                        <p>Conffetti cake</p>
+                        <p>Conffetti cake<br></p>
                         <button type="submit" value="Ccofi" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                 </div>
                 <h1>Cheese cake</h1>
                 <div class="Renglon">
                     <div class="pastel">
                         <img src="img\Cheescake\cake1.jpg" id="cake17">
-                        <p>Fresa flavor</p>
+                        <p>Fresa flavor<br></p>
                         <button type="submit" value="CFresa" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Cheescake\cake2.jpg" id="cake18">
-                        <p>Oreo tentation</p>
+                        <p>Oreo tentation<br></p>
                         <button type="submit" value="Coreo" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Cheescake\cake3.jpg" id="cake19">
-                        <p>Lonely strawberry</p>
+                        <p>Lonely strawberry<br></p>
                         <button type="submit" value="Cstranberry" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
                         <img src="img\Cheescake\cake4.jpg" id="cake20">
-                        <p>Yellow</p>
+                        <p>Yellow<br></p>
                         <button type="submit" value="Cyellow" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                 </div>
                 <h1>Pasteles De Cumpleaños</h1>
                 <div class="Renglon">
                     <div class="pastel">
-                        
                         <img src="img\Cumpleaños\cake1.jpg" id="cake21">
-                        <p>Rainbow birthday</p>
+                        <p>Rainbow birthday<br></p>
                         <button type="submit" value="Cbirday" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Cumpleaños\cake2.jpg" id="cake22">
-                        <p>Birthday bluepink</p>
+                        <p>Birthday bluepink<br></p>
                         <button type="submit" value="CBirthday" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Cumpleaños\cake3.jpg" id="cake23">
-                        <p>Happy colors</p>
+                        <p>Happy colors<br></p>
                         <button type="submit" value="Chappy" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Cumpleaños\cake4.jpg" id="cake24">
-                        <p>Berry birthday</p>
+                        <p>Berry birthday<br></p>
                         <button type="submit" value="Cberry" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                 </div>
                 <h1>Macaroons</h1>
                 <div class="Renglon">
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake1.jpg" id="cake25">
-                        <p>Macaroons red heart</p>
+                        <p>Macaroons red heart<br></p>
                         <button type="submit" value="CMRH" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake2.jpg" id="cake26">
-                        <p>Macaroons pink flower</p>
+                        <p>Macaroons pink flower<br></p>
                         <button type="submit" value="CMPF" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake3.jpg" id="cake27">
-                        <p>Escandalosos</p>
+                        <p>Escandalosos<br></p>
                         <button type="submit" value="Cescandalosos" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake4.jpg" id="cake28">
-                        <p>Blair's macaroons</p>
+                        <p>Blair's macaroons<br></p>
                         <button type="submit" value="Cblair" class="car">Comprar</button>
-                        
                     </div>
                 </div>
                 <div class="Renglon">
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake5.png" id="cake25">
-                        <p>Pink flavor</p>
+                        <p>Pink flavor<br></p>
                         <button type="submit" value="CPF" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake6.png" id="cake26">
-                        <p>Special edition</p>
+                        <p>Special edition<br></p>
                         <button type="submit" value="CSE" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake7.png" id="cake27">
-                        <p>Valentin's day</p>
+                        <p>Valentin's day<br></p>
                         <button type="submit" value="CVale" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
                     <div class="pastel">
-                        
                         <img src="img\Galletas\cake8.png" id="cake28">
-                        <p>Coffe taste</p>
+                        <p>Coffe taste<br></p>
                         <button type="submit" value="Ccoffe" class="car">Comprar</button>
-                        
+                        <h4 class="precio"></h4>
                     </div>
-                    
                 </div>
+                </form>
             </div>
         </main>
         <footer class="footer">
