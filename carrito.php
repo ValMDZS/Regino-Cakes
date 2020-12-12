@@ -31,7 +31,6 @@
             <?php
             include ('pasteles.php');
             include ('conection.php');
-            echo $_COOKIE($identificacion);
             ?>
         </div>
     </div>

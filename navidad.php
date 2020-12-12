@@ -17,19 +17,6 @@
         @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
     </style>
     <body>
-<<<<<<< HEAD:navidad.html
-        <header class="header">
-            <div class="container-logo-nav">
-                <a href="index.php" class="logo"><img src="img/logo1.png" alt="" ></a>
-                <nav class="navegador">
-                    <ul>
-                        <li><a href="index.php">Inicio</a></li>
-                        <li><a href="us 2.0.html">Acerca De Nosotros/Contactanos</a></li>
-                        <li><a href="Cakes.html">Productos</a></li>
-                        <li><a href="Registro.html">Registrate</a></li>
-                    </ul>
-                </nav>
-=======
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: url(img/banner2.png);">
             <a class="navbar-brand" href="#"><img src="img/logo1.png" alt="" ></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,7 +37,6 @@
                     <a class="nav-link" href="RegistroD.php">Registrate</a>
                 </li>
             </ul>
->>>>>>> 7792c59403730a7a75fc0ffea99a552a5439df11:navidad.php
             </div>
         </nav>
         <main class="main">
