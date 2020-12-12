@@ -18,13 +18,10 @@ include ('conection.php');
             }else{      
                   $insertvalue = "INSERT INTO usuarios (Nombre, Apellidos, Correo, Contrasena, Telefono, Sexo, Usuario) VALUES ('$nombre', '$apellido', '$correo', '$contrasena', '$telefono','$genero', '$usuario')";
                   if (mysqli_query($conn, $insertvalue)) {
-                        header("Location: Iniciosesion.php");
+                        header("Location: index.php");
                   } else {
                         echo "Error: " . $insertvalue . "<br>" . mysqli_error($conn);
                   }
             }
-
-
-
 
 mysqli_close($conn);
