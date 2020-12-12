@@ -12,8 +12,13 @@
         <title>Regino Cakes</title>
     </head>
     <body>
+<<<<<<< HEAD
         <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: url(img/banner2.png);">
             <a class="navbar-brand" href="index.php"><img src="img/logo1.png" alt="" ></a>
+=======
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-image: url(img/banner2.png);">
+            <a class="navbar-brand" href="#"><img src="img/logo1.png" alt="" ></a>
+>>>>>>> 7792c59403730a7a75fc0ffea99a552a5439df11
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -23,10 +28,14 @@
                 <a class="nav-link" href="index.php">Inicio <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
+<<<<<<< HEAD
                 <a class="nav-link" href="us 2.0.html">Acerca de nosotros</a>
+=======
+                <a class="nav-link" href="Us.php">Acerca de nosotros</a>
+>>>>>>> 7792c59403730a7a75fc0ffea99a552a5439df11
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="Cakes.html">Productos</a>
+                <a class="nav-link" href="Cakes.php">Productos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="RegistroD.php">Registrate</a>
@@ -74,7 +83,7 @@
             <div class="card">
                 <img src="img/I1.jpg" class="card-img-top" alt="..." width="100%">
                 <br>
-                <a href="navidad.html" class="btn">PRUEBA NUESTRA EDICIÓN LIMITADA</a>
+                <a href="navidad.php" class="btn">PRUEBA NUESTRA EDICIÓN LIMITADA</a>
                 
             </div>
         </div>
@@ -83,7 +92,7 @@
             <div class="card">
                 <img src="img/logo.png" class="card-img-top" alt="..." width="100%">
                 <br>
-                <a href="us 2.0.html" class="btn">CONOCE MÁS SOBRE NOSOTROS!</a>
+                <a href="Us.php" class="btn">CONOCE MÁS SOBRE NOSOTROS!</a>
                 </div>
             </div>
         </div>

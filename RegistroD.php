@@ -7,7 +7,7 @@
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="CSS\styleR.css">
+    <link rel="stylesheet" href="CSS\registro.css">
 </head>
 <body>
     <div class="container register">
@@ -21,7 +21,7 @@
             </div>
             <div class="col-md-9 register-right">
                 <div class="tab-content" id="myTabContent">
-                    <form action="registro.php" method="post">
+                    <form action="php\registro.php" method="post">
                     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">                    
                         <h3 class="register-heading">Pasteleria Regino</h3>
                         <div class="row register-form">
@@ -53,14 +53,14 @@
                                 </div>
                             </div>
                             <div class="col-md-6">
+                            <div class="form-group">
+                                    <input type="text" class="form-control"  placeholder="Usuario *" value="" name="usuario" autocomplete="off" required/>
+                                </div>
                                 <div class="form-group">
                                     <input type="email" class="form-control" placeholder="Correo *" value="" name="Email" autocomplete="off" required/>
                                 </div>
                                 <div class="form-group">
                                     <input type="text" minlength="10" maxlength="10" name="Phone" class="form-control" placeholder="Telefono *" value="" autocomplete="off" required/>
-                                </div>
-                                <div class="form-group">
-                                    <input type="password" class="form-control"  placeholder="Confirmar Contraseña *" value="" name="Passwordc" autocomplete="off" required/>
                                 </div>
                                 <input type="submit" class="btnRegister"  value="Register"/>
                             </div>

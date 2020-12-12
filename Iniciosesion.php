@@ -15,9 +15,9 @@
           <div class="fadeIn first">
             <img src="img/logofake/conejitoo.png" id="icon" alt="User Icon" />
           </div>
-          <form action="sesion.php" method="post">
-            <input type="text" id="login" class="fadeIn second" name="emails" placeholder="Correo">
-            <input type="text" id="password" class="fadeIn third" name="Passwords" placeholder="Contraseña">
+          <form action=".\sesion.php" method="post">
+            <input type="text" id="login" class="fadeIn second" name="usuario" placeholder="Usuario">
+            <input type="password" id="password" class="fadeIn third" name="Passwords" placeholder="Contraseña">
             <input type="submit" class="fadeIn fourth" value="Iniciar Sesion">
           </form>
           <div id="formFooter">
